@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kj8RBn60Dd+XsRtPWVRa5xlLwJKSurrg8937MP8FQIaXhyAwhoSAd2q56fKViDYOypaGILuNEyZt/7xVKIQekA==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\ProjetoNet8\\ProjetoNet8\\ProjetoNet8\\ProjetoNet8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
